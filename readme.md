@@ -5,3 +5,9 @@ This is a simple hangman implementation in processing. Change the first array(`w
 Everytime you run the program, a word will be randomly selected from the list. 
 
 Following the standard rules of hangman - 6 mistakes and you hang the man, ie. you lose.
+
+Some screen shots
+
+![Initial Screen](./img1.png)
+
+![While playing](./img2.png)
